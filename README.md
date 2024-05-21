@@ -11,8 +11,7 @@ The Meal and Recipe Generator is an application that allows the user to randomly
 
 ## Installation
 
-* Set up a new React project using Create React App:
-** npm init vite
+* Set up a new React project using Create React App:                npm init vite
 * Set up an Express.js server:                                      npm install express
 * Establish a connection with MongoDB:                            npm install mongoose
 * Cors for API frontend:                                            npm install cors
