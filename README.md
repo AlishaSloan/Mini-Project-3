@@ -1,8 +1,12 @@
-# Mini-Project-3
-
 # Meal and Recipe Generator
 
 The Meal and Recipe Generator is an application that allows the user to randomly select a meal to cook for dinner and post recipes to create a personal recipe library of favorites.
+
+## Getting Started
+
+## Built With
+* [![React][React.js]][React-url]
+
 
 ## Installation
 
